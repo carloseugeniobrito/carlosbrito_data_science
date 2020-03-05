@@ -7,7 +7,7 @@
 # Carlos Brito
 <sub>*Data Scientist Student*</sub>
 
-Formado em Administração com especialização em Finanças e Controladoria (IBMEC). Atualmente autodidata no aprendizado de Data Science, Analytics e programação.
+Graduated in Administration with specialization in Finance and Controllership (IBMEC). Currently self-taught in learning Data Science, Analytics and programming.
 
 **Background in:** Python, PowerBI, Machine Learning.
 
