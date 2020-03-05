@@ -20,6 +20,7 @@ Formado em Administração com especialização em Finanças e Controladoria (IB
 ## Projetos:
 Veja os tutoriais publicados:
 
+* **Como criar uma Wordcloud em Python:**
 
 ---
 
